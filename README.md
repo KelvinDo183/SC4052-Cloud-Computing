@@ -48,4 +48,4 @@ python Pagerank_MapReduce.py
 ```
 
 ## Conclusion
-Pagerank is a powerful tool for ranking web pages. Through the experiments, I have more hands-on experience with famous algorithms. In the future, I want to explore integrating neural networks. One question: **Is there a better way to do this with the Random Walker or Transition Matric? **. This might involve exploration of more **Stochastic Processes** rather than Random Walk to get a better result. 
+Pagerank is a powerful tool for ranking web pages. Through the experiments, I have more hands-on experience with famous algorithms. In the future, I want to explore integrating neural networks. One question: <b>Is there a better way to do this with the Random Walker or Transition Matrix? <b>. This might involve exploration of more **Stochastic Processes** rather than Random Walk to get a better result. 
